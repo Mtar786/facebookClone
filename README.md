@@ -200,3 +200,7 @@ For support, please open an issue in the GitHub repository or contact the develo
 - Firebase for authentication and backend services
 - Shadcn/UI for the component library
 - The open-source community for the amazing tools and libraries
+
+  
+<img width="1517" height="875" alt="image" src="https://github.com/user-attachments/assets/19ab1c91-5197-4c9d-8acd-d44ea9024d7e" />
+
