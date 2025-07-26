@@ -1,5 +1,6 @@
 # Facebook Clone
 
+
 A modern Facebook clone built with React, TypeScript, and Firebase. This application replicates the core features of Facebook including user authentication, posts, likes, comments, and real-time updates.
 
 ## Features
